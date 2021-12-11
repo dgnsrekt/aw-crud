@@ -1,2 +1,2 @@
-# aw-crud
-various crud applications.
+# Aw, crud!
+A variety of CRUD applications.
