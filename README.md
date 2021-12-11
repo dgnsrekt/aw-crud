@@ -1,2 +1,2 @@
 # Aw, crud!
-A variety of CRUD applications.
+A variety of Full-Stack CRUD applications built with django and react.
